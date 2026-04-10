@@ -1,0 +1,140 @@
+{
+  "Murrah": {
+    "lifespan": "18-20 years",
+    "milk_yield": "2200-3000 litres per lactation",
+    "suitable_food": "Green fodder, dry fodder, oil cakes, concentrates",
+    "diseases": [
+      "Haemorrhagic Septicaemia",
+      "Foot and Mouth Disease",
+      "Mastitis"
+    ],
+    "region": "Haryana, Punjab, Uttar Pradesh",
+    "traits": "Jet black coat, tightly curled horns, high milk fat content (7-8%)"
+  },
+  "Jaffarabadi": {
+    "lifespan": "18-20 years",
+    "milk_yield": "2000-2500 litres per lactation",
+    "suitable_food": "Green fodder, maize silage, cotton seed cake",
+    "diseases": [
+      "FMD",
+      "Mastitis",
+      "Theileriosis"
+    ],
+    "region": "Saurashtra (Gujarat)",
+    "traits": "Heavy buffalo, drooping horns, docile temperament"
+  },
+  "Mehsana": {
+    "lifespan": "18 years",
+    "milk_yield": "1200-1500 litres per lactation",
+    "suitable_food": "Green fodder, cotton seed cake, dry fodder",
+    "diseases": [
+      "FMD",
+      "HS",
+      "Mastitis"
+    ],
+    "region": "Mehsana (Gujarat)",
+    "traits": "Cross of Murrah and Surti, long body, sickle-shaped horns"
+  },
+  "Surti": {
+    "lifespan": "15-18 years",
+    "milk_yield": "1000-1300 litres per lactation",
+    "suitable_food": "Lucerne, maize, dry fodder",
+    "diseases": [
+      "Haemorrhagic Septicaemia",
+      "Trypanosomiasis"
+    ],
+    "region": "Kheda and Baroda (Gujarat)",
+    "traits": "Medium size, sickle-shaped horns, good draught power"
+  },
+  "Banni": {
+    "lifespan": "20 years",
+    "milk_yield": "1500-2000 litres per lactation",
+    "suitable_food": "Arid fodder grasses, local shrubs, oil cakes",
+    "diseases": [
+      "HS",
+      "FMD",
+      "Mastitis"
+    ],
+    "region": "Kutch (Gujarat)",
+    "traits": "Adapted to harsh desert climate, high disease resistance"
+  },
+  "Gir": {
+    "lifespan": "20-22 years",
+    "milk_yield": "1200-1800 litres per lactation",
+    "suitable_food": "Dry fodder, cotton seeds, maize fodder",
+    "diseases": [
+      "Tick fever",
+      "Trypanosomiasis",
+      "Mastitis"
+    ],
+    "region": "Saurashtra (Gujarat)",
+    "traits": "Dome-shaped forehead, long drooping ears, docile temperament"
+  },
+  "Sahiwal": {
+    "lifespan": "18-20 years",
+    "milk_yield": "2000-2500 litres per lactation",
+    "suitable_food": "Green fodder, wheat straw, mustard oil cake",
+    "diseases": [
+      "Mastitis",
+      "Haemorrhagic Septicaemia"
+    ],
+    "region": "Punjab region (India & Pakistan)",
+    "traits": "Reddish brown coat, loose skin, heat tolerant"
+  },
+  "Hariana": {
+    "lifespan": "15-18 years",
+    "milk_yield": "1400-1600 litres per lactation",
+    "suitable_food": "Wheat straw, bajra, green fodder",
+    "diseases": [
+      "Trypanosomiasis",
+      "FMD"
+    ],
+    "region": "Haryana, Western UP",
+    "traits": "White/grey coat, dual-purpose breed (milk & draught)"
+  },
+  "Tharparkar": {
+    "lifespan": "15-18 years",
+    "milk_yield": "1500-1900 litres per lactation",
+    "suitable_food": "Desert grasses, bajra, wheat bran",
+    "diseases": [
+      "HS",
+      "FMD",
+      "Tick infestation"
+    ],
+    "region": "Rajasthan (Thar desert)",
+    "traits": "Grey coat, hardy, heat tolerant, good draught power"
+  },
+  "Red Sindhi": {
+    "lifespan": "16-18 years",
+    "milk_yield": "1250-1800 litres per lactation",
+    "suitable_food": "Green fodder, dry straw, cotton seed cake",
+    "diseases": [
+      "Mastitis",
+      "Trypanosomiasis"
+    ],
+    "region": "Sindh (Pakistan) & parts of India",
+    "traits": "Reddish-brown coat, compact body, popular for crossbreeding"
+  },
+  "Ongole": {
+    "lifespan": "18-20 years",
+    "milk_yield": "1000-1200 litres per lactation",
+    "suitable_food": "Groundnut cake, green fodder, maize stalks",
+    "diseases": [
+      "FMD",
+      "HS"
+    ],
+    "region": "Andhra Pradesh",
+    "traits": "Large white cattle, strong build, exported for beef & draught"
+  },
+  "Deoni": {
+    "lifespan": "15-18 years",
+    "milk_yield": "1200-1500 litres per lactation",
+    "suitable_food": "Mixed fodder crops, sorghum, cotton seed cake",
+    "diseases": [
+      "Mastitis",
+      "HS"
+    ],
+    "region": "Maharashtra, Karnataka, Telangana",
+    "traits": "Dual-purpose (milk & draught), white with black spots"
+  }
+}
