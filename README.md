@@ -34,10 +34,20 @@ The goal is to build an accurate and efficient model capable of identifying diff
 
 📈 Results
 - Training Accuracy: XX%
-- Validation Accuracy: XX%
+- Validation Accuracy: XX%)
 
 📸 Demo
-(Add sample predictions here)
+| Input | Prediction |
+|------|------------|
+| ![](images/sample1.jpeg) | Breed: Cow |
+
+⚠️ Edge Case Testing
+To evaluate the robustness of the model, a human image was tested.
+| Input | Prediction |
+|------|------------|
+| ![](images/sample2.jpeg) | No valid breed detected / Incorrect classification |
+
+👉 This shows that the model may misclassify non-breed images and needs further improvement.
 
 🎯 Features
 - Classifies different breeds/categories from images
